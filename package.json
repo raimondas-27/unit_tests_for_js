@@ -1,0 +1,20 @@
+{
+  "name": "unit_test_for_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "R.K.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raimondas-27/unit_tests_for_js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raimondas-27/unit_tests_for_js/issues"
+  },
+  "homepage": "https://github.com/raimondas-27/unit_tests_for_js#readme",
+  "description": ""
+}
