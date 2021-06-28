@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "testC": "jest --coverage"
   },
   "keywords": [],
   "author": "R.K.",
@@ -16,5 +17,11 @@
     "url": "https://github.com/raimondas-27/unit_tests_for_js/issues"
   },
   "homepage": "https://github.com/raimondas-27/unit_tests_for_js#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
